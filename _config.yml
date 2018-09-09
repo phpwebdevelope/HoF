@@ -1,35 +1,25 @@
-url: https://y7kim.github.io
+lang: en-UK
+url: https://phpwebdevelope.github.io
 baseurl: /agency-jekyll-theme/
-
+google_analytics: UA-110136381-1 
+plugins:
+  - jekyll-sitemap
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-
+title: House Of Fennel 
+email: info@houseoffennel.com
+description: "Jamaican Fashion House for womenswear - Indigenous Jamaican Creativity."
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: M. M. Fennel
   pic: 1
-  position: Lead Designer
+  position: Creative Director
   social:
     - title: twitter
-      url: #
+      url: https://www.twitter.com/houseoffennel
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url:  https://www.facebook.com/houseoffennel
+    - title: instagram
+      url: https://www.instagram.com/houseoffennel
 
 - name: Diana Petersen
   pic: 3
@@ -41,25 +31,21 @@ people:
       url: #
     - title: google-plus
       url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/houseoffennel
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+    url: https://www.facebook.com/houseoffennel
+  - title: instagram
+    url: https://www.instagram.com/houseoffennel
+  - title: google plus 
+    url: https://plus.google.com/112332268275126848746
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
+  - line: Jamaica
+  - line: West Indies
 # Build settings
 markdown: kramdown
 permalink: pretty
+
